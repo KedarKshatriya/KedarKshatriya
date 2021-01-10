@@ -10,7 +10,7 @@ I am interested and experienced in various technologies like: <br>
 
 ⚡ My curiosity to learn new things drives me. I am always self-motivated and quick at learning while keeping a positive attitude. <br>
 
-🌱 I’m currently learning full-stack implementation of Blockchain and JavaScript. <br>
+🌱 I’m currently learning full-stack implementation of Blockchain also trying out Data Science Basics. <br>
 💬 Ask me stuff related to Blockchain, Machine Learning or Astronomy. <br>
 📫 How to reach me: I am always active on<a href="https://www.linkedin.com/in/kedar-kshatriya/"> Linkedln </a>do connect with me. <br>
 
