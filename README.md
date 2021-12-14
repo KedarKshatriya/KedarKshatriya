@@ -1,6 +1,8 @@
 ### Hi there 👋
 Nice to Meet you,
-I am Kedar a Blockchain Developer and  Freelance Consultant and loves to share his knowledge with people.
+I am Kedar a Blockchain Developer and Freelance Consultant. <br>
+I loves to share my knowledge with people.<br> 
+Feel free to connect with me and ask me questions.<br>
 
 ⚡ My curiosity to learn new things drives me. I am always self-motivated and quick at learning while keeping a positive attitude. <br>
 
