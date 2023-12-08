@@ -1,23 +1,19 @@
 ### Hi there 👋
 Nice to Meet you,
-I am Kedar a Blockchain Developer and Freelance Consultant. <br>
-I loves to share my knowledge with people.<br> 
-Feel free to connect with me and ask me questions.<br>
+I'm **Kedar**, a Blockchain Developer and aspiring Product Manager.
+Currently pursuing MS in Management, Science, and Engineering at Columbia University in NYC.
 
-⚡ My curiosity to learn new things drives me. I am always self-motivated and quick at learning while keeping a positive attitude. <br>
+#### Connect & Discover
+- 💬 **Ask me** about Blockchain, NFTs, or the Metaverse.
+- 📫 **Reach Me**: Active on [Linkedln](https://www.linkedin.com/in/kedar-kshatriya/). Feel free to connect!
+- 😄 **My Projects**: Discover them on [YouTube](https://www.youtube.com/@kedarkshatriya).
 
-💬 Ask me stuff related to Blockchain, NFTs or Metaverse. <br>
-📫 How to reach me: I am always active on<a href="https://www.linkedin.com/in/kedar-kshatriya/"> Linkedln </a>do connect with me. <br>
-😄 Check out some of my projects on <a href="https://www.youtube.com/channel/UCMxiodZascvk5p4y6Fw_1wA"> YouTube </a>.
+#### Career Summary
+- 🔭 **Blockchain Developer & Product Management Aspirant**: Enhancing skills at Columbia University, aiming to align tech with market needs.
+- 🌱 **Entrepreneurial Experience**: Founder of Blockatena and Developer at GamesToWeb3, focusing on product strategy and team collaboration.
+- 👯 **Hackathon Enthusiast**: Participated and won in various hackathons like ETHOnline, Buildquest, and EthIndia, honing rapid ideation and validation skills.
+- 🤔 **Community Initiatives**: Founded Chain Pe Charcha, a platform for blockchain discussions and learning.
+- ⚡ **Research Intern**: Explored blockchain applications at Koç University and Athens Information Technology.
+- 📫 **Open to Collaboration**: Eager to discuss technology and explore potential partnerships.
 
-<!--
-**KedarKshatriya/KedarKshatriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-🌱 I’m currently learning full-stack implementation of Blockchain also trying out Data Science Basics. <br>
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's turn innovative ideas into impactful realities!
