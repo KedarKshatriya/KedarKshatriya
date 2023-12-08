@@ -1,6 +1,6 @@
 ### Hi there 👋
 Nice to Meet you,
-I'm **Kedar**, a Blockchain Developer and aspiring Product Manager.
+I'm **Kedar**, a Blockchain Developer and aspiring Product Manager.<br>
 Currently pursuing MS in Management, Science, and Engineering at Columbia University in NYC.
 
 #### Connect & Discover
